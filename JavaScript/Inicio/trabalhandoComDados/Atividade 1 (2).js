@@ -7,11 +7,9 @@
 // tendo em mente que o raio da circunferência é de R=16
 
 // entrada de dados
-
 const raioCirculo = 16
 
 // processamento de dados
-
 const resultadoRaio = Math.PI * (raioCirculo * raioCirculo)
 
 // saída de dados
