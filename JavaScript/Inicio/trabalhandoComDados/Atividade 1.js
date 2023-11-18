@@ -16,7 +16,3 @@ const resultadoRaio = PI * (raioCirculo * raioCirculo)
 //  saída de dados
 console.log (resultadoRaio + " cm²");
 
-
-//ou
-
-
